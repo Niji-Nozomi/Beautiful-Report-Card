@@ -1,7 +1,7 @@
 <?php
 header('Access-Control-Allow-Origin: *');
 $header[] = "Content-type: text/json";
-$header[] = "user-agent: nuoixanCN / Beautiful-Report-Card";
+$header[] = "user-agent: nuoixan233 / Beautiful-Report-Card";
 
 // 初始化Curl会话
 $curl = curl_init();
